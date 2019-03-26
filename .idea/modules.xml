@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/first-rest-service/first-rest-service.iml" filepath="$PROJECT_DIR$/first-rest-service/first-rest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-https-zull-config-poc/http-https-zull-config-poc.iml" filepath="$PROJECT_DIR$/http-https-zull-config-poc/http-https-zull-config-poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/https-zuul-proxy.iml" filepath="$PROJECT_DIR$/https-zuul-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/second-rest-service/second-rest-service.iml" filepath="$PROJECT_DIR$/second-rest-service/second-rest-service.iml" />
+    </modules>
+  </component>
+</project>
